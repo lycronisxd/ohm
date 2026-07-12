@@ -28,3 +28,8 @@ then, i made an assembly to put all the parts together with mate connectors - an
 <b>entry time - 1 hour 31 minutes</b><br \>
 <b>total time - 2 hours 8 minutes</b>
 <hr>
+<h3>entry 3, 11/07/26: ? - ?</h3><br \>
+<br \>
+<b>entry time - ?</b><br \>
+<b>total time - ?</b>
+<hr>
