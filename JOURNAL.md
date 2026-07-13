@@ -1,5 +1,5 @@
 <h1>ohm journal!</h1>
-<h3>entry 1, 11/07/26: 20:27 - 21:05</h3><br \>
+<h3>entry 1, 11/07/26: 20:27 - 21:05</h3>
 i started by defining what i wanted out of the project, which ultimately was a cyberdeck / electronics workstation that is portable.<br \>
 below are the proposed specs!<br \>
 <ul>
@@ -17,7 +17,7 @@ i then decided to model the case in onshape to try and get some size constraints
 <b>total time - 37 minutes</b>
 <hr>
 
-<h3>entry 2, 12/07/26: 16:08 - 17:39</h3><br \>
+<h3>entry 2, 12/07/26: 16:08 - 17:39</h3>
 i dreaded doing this, but i first researched a hinge that i want to use and model into my onshape project - and i found this piano hinge.<br \>
 <img width="1127" height="667" alt="image" src="https://github.com/user-attachments/assets/6d6832f1-8435-4881-aea7-195507a3f7f4" /><br \>
 it took about an hour for this little hinge since i suck at onshape, but heres the final hinge that i modelled.<br \>
@@ -28,7 +28,7 @@ then, i made an assembly to put all the parts together with mate connectors - an
 <b>entry time - 1 hour 31 minutes</b><br \>
 <b>total time - 2 hours 8 minutes</b>
 <hr>
-<h3>entry 3, 11/07/26: 19:05 - 19:34, 20:00 - 21:50</h3><br \>
+<h3>entry 3, 11/07/26: 19:05 - 19:34, 20:00 - 21:50</h3>
 i carried on modelling the case and went a little overboard with the designs lol. heres hoping the holes in the case work as vents <br \>
 <img width="937" height="560" alt="image" src="https://github.com/user-attachments/assets/67169798-1e5e-4c13-b8bd-2f8440805c2b" /><br \>
 i also found a display on aliexpress and modelled a very rough version of it for mounting post references etc. (p.s the rpi 5 actually mounts to the bottom of the display, so yay for space saving!!)<br \>
@@ -40,10 +40,27 @@ and voila, heres the current product!<br \>
 <img width="1078" height="656" alt="image" src="https://github.com/user-attachments/assets/a5288501-f29d-4d89-a219-27c2fb15704e" /><br \>
 <br \>
 <b>entry time - 2 hours 19 minutes</b><br \>
-<b>total time - 4 hours 27 minutes?</b>
+<b>total time - 4 hours 27 minutes</b>
 <hr>
-<h3>entry 4, 12/07/26: ? - ?</h3><br \>
+<h3>entry 4, 12/07/26: 12:10 - 13:38</h3>
+i wanted to start the day by making the first custom pcb of the build, which is the keyboard. i decided to use kicad 10.0 because i already have some mech keyboard libraries from other builds and obviously, its free!
 <br \>
-<b>entry time - ? hours ? minutes</b><br \>
-<b>total time - ? hours ? minutes?</b>
+<img width="1238" height="873" alt="image" src="https://github.com/user-attachments/assets/8af4ef01-98d4-412a-bfa6-950e8d43def1" /><br \>
+i wanted a small keyboard to fit in the case, so i made the keyboard 10x4 and used an rp2040 as the dev board to make it easier! i chose every key to be 1u because i think it will be the most universal if im planning to add via compatibility into the firmware, and i added 0805 diodes with hand solder pads to keep the board as low profile as possible for space reasons. 
+<img width="947" height="393" alt="image" src="https://github.com/user-attachments/assets/49b682c3-cc28-4226-a273-166a96865b3e" /><br \>
+<img width="947" height="393" alt="image" src="https://github.com/user-attachments/assets/5b8e9345-abb4-4343-8e8a-491a5202fb9c" /><br \>
+<img width="947" height="393" alt="image" src="https://github.com/user-attachments/assets/5125b034-dda3-4440-880c-891db77a977c" /><br \>
+then, i wired it up, made a 250mm x 100mm pcb so i could add mounting holes and some extra decals and cool things on the sides :)<br \>
+<img width="495" height="639" alt="image" src="https://github.com/user-attachments/assets/6de78233-7da9-480f-a3b0-1f48b1fb2aa0" /><br \>
+for the decals, i went on the websites of the competitions and downloaded the images for the competitions, then went into photoshop to duotone them and convert them into svgs!<br \>
+hope you like the final pcb!<br \>
+<br \>
+<b>entry time - 1 hour 28 minutes</b><br \>
+<b>total time - 5 hours 55 minutes</b>
 <hr>
+<h3>entry 5, 12/07/26: ? - ?</h3>
+<br \>
+<b>entry time - ?</b><br \>
+<b>total time - ?s</b>
+<hr>
+
