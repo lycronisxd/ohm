@@ -28,7 +28,7 @@ then, i made an assembly to put all the parts together with mate connectors - an
 <b>entry time - 1 hour 31 minutes</b><br \>
 <b>total time - 2 hours 8 minutes</b>
 <hr>
-<h3>entry 3, 11/07/26: 19:05 - 19:34, 20:00 - 21:50</h3>
+<h3>entry 3, 12/07/26: 19:05 - 19:34, 20:00 - 21:50</h3>
 i carried on modelling the case and went a little overboard with the designs lol. heres hoping the holes in the case work as vents <br \>
 <img width="937" height="560" alt="image" src="https://github.com/user-attachments/assets/67169798-1e5e-4c13-b8bd-2f8440805c2b" /><br \>
 i also found a display on aliexpress and modelled a very rough version of it for mounting post references etc. (p.s the rpi 5 actually mounts to the bottom of the display, so yay for space saving!!)<br \>
@@ -42,7 +42,7 @@ and voila, heres the current product!<br \>
 <b>entry time - 2 hours 19 minutes</b><br \>
 <b>total time - 4 hours 27 minutes</b>
 <hr>
-<h3>entry 4, 12/07/26: 12:10 - 13:38</h3>
+<h3>entry 4, 13/07/26: 12:10 - 13:38</h3>
 i wanted to start the day by making the first custom pcb of the build, which is the keyboard. i decided to use kicad 10.0 because i already have some mech keyboard libraries from other builds and obviously, its free!
 <br \>
 <img width="1238" height="873" alt="image" src="https://github.com/user-attachments/assets/8af4ef01-98d4-412a-bfa6-950e8d43def1" /><br \>
@@ -58,7 +58,7 @@ hope you like the final pcb!<br \>
 <b>entry time - 1 hour 28 minutes</b><br \>
 <b>total time - 5 hours 55 minutes</b>
 <hr>
-<h3>entry 5, 12/07/26: 14:54 - 16:56</h3>
+<h3>entry 5, 13/07/26: 14:54 - 16:56</h3>
 <br \>
 i imported my keyboard pcb and then designed a bottom plate around it!<br \>
 <img width="929" height="646" alt="image" src="https://github.com/user-attachments/assets/4f9eccce-7e05-4c57-8688-8012773d46c6" /><br \>
@@ -76,7 +76,26 @@ and then i made a wiring diagram of all the components for future reference!<br 
 <b>entry time - 2 hours 2 minutes</b><br \>
 <b>total time - 7 hours 57 minutes</b>
 <hr>
-<h3>entry 6, 12/07/26: ? - ?</h3>
+<h3>entry 6, 13/07/26: 21:00 - 23:24</h3>
+i started the session off by modifying the existing plate with m12 holes where i want to put some toggle switches for important things like isolating battery power.<br \>
+<img width="596" height="429" alt="image" src="https://github.com/user-attachments/assets/5a0cacbd-b7ea-40a6-ab26-61a8081c8be8" /><br \>
+i then realised that i have wayyy too much real estate on the plate and decided to make a little instrument panel.<br \>
+for the instrument panel i wanted a few things, which are as follows<br \>
+<ul>
+<li>screen with performance graphics and metrics</li>
+<li>rotary encoder and buttons to navigate menus</li>
+<li>leds for metrics like power and storage validity</li>
+</ul>
+and here is the final pcb design for the instrument panel!<br \>
+<img width="1123" height="791" alt="image" src="https://github.com/user-attachments/assets/a5d37f31-b8b6-4d50-a087-00440a79a754" /><br \>
+<img width="1123" height="762" alt="image" src="https://github.com/user-attachments/assets/5fa302a9-4093-4d97-8a99-0b80c8aae6fb" /><br \>
+<img width="1123" height="782" alt="image" src="https://github.com/user-attachments/assets/2629419c-1c53-44ae-b761-ed4ef6cafe72" /><br \>
+<img width="1123" height="714" alt="image" src="https://github.com/user-attachments/assets/cfa302da-5c8e-4d25-bac3-d077517ce7e3" /><br \>
+<br \>
+<b>entry time - 2 hours 24 minutes</b><br \>
+<b>total time - 10 hours 21 minutes</b>
+<hr>
+<h3>entry 7, 14/07/26: ? - ?</h3>
 <br \>
 <b>entry time - ? hours ? minutes</b><br \>
 <b>total time - ? hours ? minutes</b>
