@@ -58,9 +58,25 @@ hope you like the final pcb!<br \>
 <b>entry time - 1 hour 28 minutes</b><br \>
 <b>total time - 5 hours 55 minutes</b>
 <hr>
-<h3>entry 5, 12/07/26: ? - ?</h3>
+<h3>entry 5, 12/07/26: 14:54 - 16:56</h3>
 <br \>
-<b>entry time - ?</b><br \>
-<b>total time - ?s</b>
+i imported my keyboard pcb and then designed a bottom plate around it!<br \>
+<img width="929" height="646" alt="image" src="https://github.com/user-attachments/assets/4f9eccce-7e05-4c57-8688-8012773d46c6" /><br \>
+and then i spent the rest of the time looking for components for the power delivery and battery system :)><br \>
+<img width="1123" height="724" alt="image" src="https://github.com/user-attachments/assets/41ca45f6-eac4-4f8f-8c7d-84b0a61dfd17" />><br \>
+<img width="1123" height="548" alt="image" src="https://github.com/user-attachments/assets/f47a82b5-9b71-4b10-81d8-1546138a1cbf" /><br \>
+<img width="1125" height="487" alt="image" src="https://github.com/user-attachments/assets/d0dafbb6-f430-42f8-b79c-22c6fc36b81f" /><br \>
+<img width="1123" height="471" alt="image" src="https://github.com/user-attachments/assets/0802633b-c5f3-4609-873f-4b9ce69808c3" /><br \>
+<img width="1123" height="750" alt="image" src="https://github.com/user-attachments/assets/10234b8a-a9f1-492b-8eec-5611916e37c5" /><br \>
+<img width="1123" height="669" alt="image" src="https://github.com/user-attachments/assets/0954c731-d788-4403-a86f-5bd2e5d69313" /><br \>
+<img width="1123" height="485" alt="image" src="https://github.com/user-attachments/assets/d7b4e9b9-2183-4eeb-a2fb-9017adbb06fd" /><br \>
+and then i made a wiring diagram of all the components for future reference!<br \>
+<img width="688" height="613" alt="image" src="https://github.com/user-attachments/assets/74ec7b49-c9b7-4ee4-b197-52d1fd0a4462" /><br \>
+<br \>
+<b>entry time - 2 hours 2 minutes</b><br \>
+<b>total time - 7 hours 57 minutes</b>
 <hr>
-
+<h3>entry 6, 12/07/26: ? - ?</h3>
+<br \>
+<b>entry time - ? hours ? minutes</b><br \>
+<b>total time - ? hours ? minutes</b>
