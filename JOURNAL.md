@@ -95,7 +95,7 @@ and here is the final pcb design for the instrument panel!<br \>
 <b>entry time - 2 hours 24 minutes</b><br \>
 <b>total time - 10 hours 21 minutes</b>
 <hr>
-<h3>entry 7, 14/07/26: ? - ?</h3>
+<h3>entry 7, 18/07/26: 17:26 - 18:28, ?</h3>
 <br \>
 <b>entry time - ? hours ? minutes</b><br \>
 <b>total time - ? hours ? minutes</b>
