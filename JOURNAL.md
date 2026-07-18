@@ -86,7 +86,7 @@ for the instrument panel i wanted a few things, which are as follows<br \>
 <li>rotary encoder and buttons to navigate menus</li>
 <li>leds for metrics like power and storage validity</li>
 </ul>
-and here is the final pcb design for the instrument panel!<br \>
+and here is the pcb design for the instrument panel!<br \>
 <img width="1123" height="791" alt="image" src="https://github.com/user-attachments/assets/a5d37f31-b8b6-4d50-a087-00440a79a754" /><br \>
 <img width="1123" height="762" alt="image" src="https://github.com/user-attachments/assets/5fa302a9-4093-4d97-8a99-0b80c8aae6fb" /><br \>
 <img width="1123" height="782" alt="image" src="https://github.com/user-attachments/assets/2629419c-1c53-44ae-b761-ed4ef6cafe72" /><br \>
@@ -95,7 +95,14 @@ and here is the final pcb design for the instrument panel!<br \>
 <b>entry time - 2 hours 24 minutes</b><br \>
 <b>total time - 10 hours 21 minutes</b>
 <hr>
-<h3>entry 7, 18/07/26: 17:26 - 18:28, ?</h3>
+<h3>entry 7, 18/07/26: 17:26 - 18:28</h3>
+im back from the couple day hiatus and needed to do a little bit of tweaking for the design<br \>
+<img width="718" height="603" alt="image" src="https://github.com/user-attachments/assets/95ef7f04-c08d-4a61-9a27-c8be03f0d86b" /><br \>
+this is the new pcb design because i decided, instead of attaching the 2.8 inch screen directly to the pcb, ill just use a 14x1 jumper cable to connect it to the pcb, so the profile of the pcb can be way smaller<br \>
+<img width="313" height="418" alt="image" src="https://github.com/user-attachments/assets/4951f232-9a19-4cd7-8131-7a6db4021a40" />
+and this is what the instrument panel is looking like, with toggle switches at the top, a display, buttons and a rotary encoder!<br \>
+<img width="948" height="611" alt="image" src="https://github.com/user-attachments/assets/ddfee07e-089d-4375-ba1a-5e5758f97526" /><br \>
+what it looks like so far!<br \>
 <br \>
-<b>entry time - ? hours ? minutes</b><br \>
-<b>total time - ? hours ? minutes</b>
+<b>entry time - 1 hours 2 minutes</b><br \>
+<b>total time - 11 hours 23 minutes</b>
